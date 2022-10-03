@@ -1,0 +1,12 @@
+The Folder Assignment 4 contains a requirements.txt file. 
+-- Please follow the instructions as described in Page 1 to install the pre-requisite libraries before running our application.
+
+
+
+You may delete the folder titled 'venv' if it causes any issues. 
+
+
+Main Contents of this System are files 'main.py', folder titled 'audio' and 'MusicSpeechClassifierNewModel70.h5'
+
+Thank you,
+Anirudh Potturi, Harshit Rajvaidya and Kanika Saraswat
